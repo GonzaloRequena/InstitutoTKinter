@@ -1,1 +1,13 @@
+# Dependencias del proyecto
+
+# GUI
 customtkinter==5.2.1 # app de escritorio
+# Para compilar a . ex
+
+# Otras dependencias
+platformdirs
+jaraco.text
+importlib-resources
+importlib-metadata
+packaging
+pyinstaller
