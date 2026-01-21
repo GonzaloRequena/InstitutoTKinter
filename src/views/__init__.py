@@ -1,3 +1,1 @@
-from .main_view import MainView
-
-__all__ = ['MainView']
+from .main_view import MainView, EditView
